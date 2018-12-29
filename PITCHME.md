@@ -1,10 +1,13 @@
 # Vue.js
-コンポーネントとルーター
-## 
+## コンポーネントとルーター
+
+Osamu Kodama
+
+shinjuku-mokumoku
 
 ---
 
-## Add Some Slide Candy
+## 今日やったこと
 
 ![](assets/img/presentation.png)
 
